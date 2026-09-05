@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-android/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr Android mod" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-android?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com/phone"><img alt="Install steps for the ATLAS APK on Android" src="https://img.shields.io/badge/Install%20steps-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Android install help" src="https://img.shields.io/badge/Discord-Install%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/K63r-8UcvPc"><img alt="See ATLAS name a GeoGuessr location on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Runs on Android 9 and newer" src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Two routes, rooted and unrooted" src="https://img.shields.io/badge/root-optional-2ecc71?style=for-the-badge">
   <img alt="New in version 1.7" src="https://img.shields.io/badge/new%20in-v1.7-FF6600?style=for-the-badge">
