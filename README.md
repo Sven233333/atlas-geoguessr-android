@@ -39,6 +39,12 @@ have.
 
 Full install guide: **[geoguessrcheats.com/phone](https://geoguessrcheats.com/phone)**
 
+## Guides on the site
+
+- [GeoGuessr cheat for iPhone and Android](https://geoguessrcheats.com/phone)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
+
 ---
 
 ## What your phone needs
