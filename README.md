@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://geoguessrcheats.com/phone">Install guide</a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-ios">iPhone</a> &middot;
   <a href="https://geoguessrcheats.com/plans">Plans</a>
@@ -41,8 +41,8 @@ Full install guide: **[geoguessrcheats.com/phone](https://geoguessrcheats.com/ph
 
 ## Guides on the site
 
-- [GeoGuessr cheat for iPhone and Android](https://geoguessrcheats.com/phone)
 - [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [GeoGuessr cheat for iPhone and Android](https://geoguessrcheats.com/phone)
 - [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
 
 ---
@@ -54,12 +54,13 @@ Full install guide: **[geoguessrcheats.com/phone](https://geoguessrcheats.com/ph
 | Android version | 9 or newer |
 | Memory | 4 GB of RAM |
 | Architecture | 64 bit device |
-| Licence | The same ATLAS key as desktop and browser |
+| Licence | The same ATLAS key as desktop and browser, two phones per key |
 
 ## Two ways in, and they are genuinely different
 
-**Stock phone, nothing unlocked.** This is what most people take. One file, a
-split installer, then sign in with your key exactly like the iPhone app does.
+**Stock phone, nothing unlocked.** This is what most people take. One app set,
+installed with SAI (a split installer), then sign in with your key exactly like
+the iPhone app does.
 Nothing about your phone has to be modified.
 
 **Rooted phone.** The safer of the two if you already have root, because it leaves
@@ -123,7 +124,7 @@ list of blessed handsets.
 
 ## More
 
-- The overview of every platform: [Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot)
+- The overview of every platform: [geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats)
 - Comparison table on the site: <https://geoguessrcheats.com/platforms>
 - What shipped in v1.7: <https://geoguessrcheats.com/blog/atlas-v17-update/>
 
